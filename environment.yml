@@ -1,0 +1,15 @@
+name: AMLD
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - numpy==1.19.5
+  - scipy
+  - matplotlib
+  - pywavelets
+  - tensorflow
+  - keras
+  - feather-format
+  - scikit-learn
